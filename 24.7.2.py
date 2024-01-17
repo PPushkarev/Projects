@@ -1,7 +1,6 @@
 
 from api import PetFriends
 from settings import valid_email, valid_password
-from settings import valid_email2, valid_password2
 import os
 
 
